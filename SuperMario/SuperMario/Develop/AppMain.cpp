@@ -79,4 +79,6 @@ int WINAPI WinMain(
 
 	//I—¹ó‘Ô‚ğ’Ê’m
 	return result;
+
+	/// Test
 }
